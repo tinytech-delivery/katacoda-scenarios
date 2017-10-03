@@ -1,0 +1,26 @@
+{
+  "title": "Create a Serilog Console app using DotNet Core",
+  "description": "Your First Scenario",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Create a new project",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uimessage1": "Lets get started..."
+  },
+  "backend": {
+    "imageid": "dotnet"
+  }
+}
