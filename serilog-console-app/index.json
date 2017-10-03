@@ -17,10 +17,12 @@
     }
   },
   "environment": {
+
+    "icon": "fa-csharp",
     "uilayout": "editor-terminal",
     "uimessage1": "Lets get started..."
   },
   "backend": {
-    "imageid": "dotnet"
+    "imageid": "microsoft/dotnet"
   }
 }
