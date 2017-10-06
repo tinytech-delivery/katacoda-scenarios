@@ -5,8 +5,8 @@
   "time": "10 minutes",
   "details": {
 		"assets": {
-			"client": [{"file": "*", "target": "/home/scrapbook/tutorial/", "chmod": "+x"}],
-			"host": [{"file": "*", "target": "/home/scrapbook/tutorial/", "chmod": "+x"}]
+			"client": [{"file": "/Step2/*", "target": "/home/scrapbook/tutorial/Step2", "chmod": "+x"}],
+			"host":  [{"file": "/Step2/*", "target": "/home/scrapbook/tutorial/Step2", "chmod": "+x"}]
 		},
     "steps": [{
       "title": "Step 1 - The DotNet Docker container",
@@ -39,7 +39,6 @@
     }
   },
   "environment": {
-
     "icon": "fa-csharp",
     "uilayout": "editor-terminal",
     "uimessage1": "Get Amongst It..."
