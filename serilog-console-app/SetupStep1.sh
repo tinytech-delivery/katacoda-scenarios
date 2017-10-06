@@ -6,3 +6,8 @@ lsb_release -a
 sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/microsoft-ubuntu-xenial-prod xenial main" > /etc/apt/sources.list.d/dotnetdev.list'
 sudo apt-get update
 sudo apt-get install -y dotnet-sdk-2.0.0
+
+
+echo "------------------------------"
+echo "All Done ;) let's get started."
+echo "------------------------------

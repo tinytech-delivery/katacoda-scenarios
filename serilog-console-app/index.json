@@ -1,12 +1,12 @@
 {
   "title": "Create a Serilog Console app using DotNet Core",
-  "description": "DotNet Core (1.0) with Serilog",
+  "description": "DotNet Core (2.0) with Serilog",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
 		"assets": {
-			"client": [{"file": "/Step2/*", "target": "/home/scrapbook/tutorial/Step2", "chmod": "+x"}],
-			"host":  [{"file": "/Step2/*", "target": "/home/scrapbook/tutorial/Step2", "chmod": "+x"}]
+			"client": [{"file": "/step3/*", "target": "/root/step3", "chmod": "+x"}],
+			"host":  [{"file": "/step3/*", "target": "/root/step3", "chmod": "+x"}]
 		},
     "steps": [{
       "title": "Step 1 - Environment Setup",
