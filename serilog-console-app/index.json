@@ -44,11 +44,7 @@
     "imageid": "docker"
   },
   "assets": {
-    "client": [
-      {
-        "file": "Program.cs",
-        "target": "Program.cs"
-      }
-    ]
+    "client": [{"file": "*", "target": "/root"}],
+    "host01": [{"file": "*", "target": "/root"}]
   }
 }
