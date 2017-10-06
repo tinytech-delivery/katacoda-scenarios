@@ -1,15 +1,10 @@
-Next lets we need a folder for our app.
+Let's create an app and run it. 
 
-* Using the terminal, create a folder and navigate to it.
+* `dotnet new console -o Step1`{{execute}}
+* `cd Step1`{{execute}}
+* `dotnet run`{{execute}}
 
-`mkdir myapp`{{execute}}
-`cd myapp`{{execute}}   
+Finally, lets exit the container. 
 
-* Using the terminal, create a new dotnet core project using the console template.ls
+* `exit`{{execute}}
 
-`dotnet new`{{execute}}
-
-
-dotnet new console -o MyConsoleApp
-
-cd MyConsoleApp

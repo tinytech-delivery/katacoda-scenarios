@@ -9,16 +9,16 @@
 			"host":  [{"file": "/Step2/*", "target": "/home/scrapbook/tutorial/Step2", "chmod": "+x"}]
 		},
     "steps": [{
-      "title": "Step 1 - The DotNet Docker container",
-      "code": "setup.sh",
+      "title": "Step 1 - Environment Setup",
+      "courseData": "SetupStep1.sh",
       "text": "step1.md"
     },
     {
-      "title": "Step 2 - Install NuGet Packages",
+      "title": "Step 2 - Create a new project",
       "text": "step2.md"
     },
     {
-      "title": "Step 3 - Create a new project",
+      "title": "Step 3 - Install NuGet Packages",
       "text": "step3.md"
     },
     {
@@ -44,6 +44,6 @@
     "uimessage1": "Get Amongst It..."
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "ubuntu"
   }
 }
