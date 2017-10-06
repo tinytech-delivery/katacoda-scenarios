@@ -10,7 +10,7 @@
 		},
     "steps": [{
       "title": "Step 1 - Environment Setup",
-      "courseData": "SetupStep1.sh",
+      "code": "SetupStep1.sh",
       "text": "step1.md"
     },
     {
