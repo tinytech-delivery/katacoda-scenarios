@@ -5,8 +5,6 @@
   "time": "10 minutes",
   "details": {
     "assets": { "host01": [ {"file": "*", "target": "/root"} ] },
-    
-
     "steps": [{
       "title": "Step 1 - Environment Setup",
       "code": "SetupStep1.sh",
