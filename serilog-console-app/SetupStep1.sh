@@ -10,4 +10,4 @@ sudo apt-get install -y dotnet-sdk-2.0.0
 
 echo "------------------------------"
 echo "All Done ;) let's get started."
-echo "------------------------------
+echo "------------------------------"
