@@ -1,13 +1,30 @@
 {
   "title": "Create a Serilog Console app using DotNet Core",
-  "description": "Your First Scenario",
+  "description": "DotNet Core (1.0) with Serilog",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Create a new project",
+      "title": "Step 1 - The DotNet Docker container",
       "text": "step1.md"
-    }],
+    },
+    {
+      "title": "Step 2 - Install NuGet Packages",
+      "text": "step2.md"
+    }
+    {
+      "title": "Step 3 - Create a new project",
+      "text": "step3.md"
+    }
+    {
+      "title": "Step 4 - Create a new project",
+      "text": "step5.md"
+    }
+    {
+      "title": "Step 5 - Create a new project",
+      "text": "step5.md"
+    }
+  ],
     "intro": {
       "text": "intro.md",
       "credits": ""
@@ -20,9 +37,17 @@
 
     "icon": "fa-csharp",
     "uilayout": "editor-terminal",
-    "uimessage1": "Lets get started..."
+    "uimessage1": "Get Amongst It..."
   },
   "backend": {
-    "imageid": "dotnet"
+    "imageid": "docker"
+  },
+  "assets": {
+    "client": [
+      {
+        "file": "src/Program.cs",
+        "target": "~/src/Program.cs"
+      }
+    ]
   }
 }
