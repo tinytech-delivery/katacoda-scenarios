@@ -21,7 +21,7 @@ Log.Logger = new LoggerConfiguration()
     .CreateLogger();
 
 Log.Information("Hello, with a basic logging statement"); 
-```{{copy}}
+```
 
 Finally, lets run the app
 
