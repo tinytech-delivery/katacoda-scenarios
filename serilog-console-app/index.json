@@ -4,6 +4,10 @@
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
+		"assets": {
+			"client": [{"file": "*", "target": "/home/scrapbook/tutorial/", "chmod": "+x"}],
+			"host": [{"file": "*", "target": "/home/scrapbook/tutorial/", "chmod": "+x"}]
+		},
     "steps": [{
       "title": "Step 1 - The DotNet Docker container",
       "code": "setup.sh",
@@ -42,9 +46,5 @@
   },
   "backend": {
     "imageid": "docker"
-  },
-  "assets": {
-    "client": [{"file": "*", "target": "/root"}],
-    "host01": [{"file": "*", "target": "/root"}]
   }
 }
