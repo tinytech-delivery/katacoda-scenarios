@@ -1,0 +1,1 @@
+docker pull microsoft/dotnet:2-sdk

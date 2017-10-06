@@ -6,6 +6,7 @@
   "details": {
     "steps": [{
       "title": "Step 1 - The DotNet Docker container",
+      "code": "setup.sh",
       "text": "step1.md"
     },
     {
@@ -45,8 +46,8 @@
   "assets": {
     "client": [
       {
-        "file": "src/Program.cs",
-        "target": "~/src/Program.cs"
+        "file": "Program.cs",
+        "target": "Program.cs"
       }
     ]
   }

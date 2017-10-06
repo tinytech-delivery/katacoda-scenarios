@@ -1,6 +1,6 @@
 G'day and welcome to a quick look at creating a DotNet Core (2.0) App using [Serilog]([Serilog](https://serilog.net/)). 
 
-In this scenario, we will use the DockerHub image for DotNet Core 2.0.  The current `dotnet` KataCoda image reflects the `microsoft/dotnet:2-sdk` Docker image on [DockerHub](https://hub.docker.com/r/microsoft/dotnet/tags/).
+In this scenario, we will use the DockerHub image for DotNet Core 2.0.  The current `dotnet` KataCoda image reflects the `microsoft/dotnet:1-sdk` Docker image on [DockerHub] (https://hub.docker.com/r/microsoft/dotnet/tags/) and does not have the latest SDK.
 
 
 ### Getting help
