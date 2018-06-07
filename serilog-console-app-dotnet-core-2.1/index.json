@@ -1,0 +1,45 @@
+{
+  "title": "Create a Serilog Console app using DotNet Core",
+  "description": "DotNet Core (2.1) with Serilog",
+  "difficulty": "beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Environment Setup",
+      "code": "SetupStep1.sh",
+      "text": "step1.md"
+    },
+    {
+      "title": "Step 2 - Create a new project",
+      "text": "step2.md"
+    },
+    {
+      "title": "Step 3 - Install NuGet Packages",
+      "text": "step3.md"
+    },
+    {
+      "title": "Step 4 - Create a new project",
+      "text": "step5.md"
+    },
+    {
+      "title": "Step 5 - Create a new project",
+      "text": "step5.md"
+    }
+  ],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "icon": "fa-csharp",
+    "uilayout": "editor-terminal",
+    "uimessage1": "Get Amongst It..."
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
