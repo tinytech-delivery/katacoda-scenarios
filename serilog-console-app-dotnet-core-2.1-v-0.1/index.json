@@ -1,6 +1,6 @@
 {
   "title": "Create a Serilog Console app using DotNet Core",
-  "description": "DotNet Core (2.1) with Serilog",
+  "description": "DotNet Core (2.1) with Serilog (0.1)",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
@@ -34,6 +34,13 @@
       "text": "finish.md"
     }
   },
+  "assets": {
+    "client": [
+      {
+        "file": "ExampleProgram.cs",
+        "target": "~/"
+      }
+    ],
   "environment": {
     "icon": "fa-csharp",
     "uilayout": "editor-terminal",
