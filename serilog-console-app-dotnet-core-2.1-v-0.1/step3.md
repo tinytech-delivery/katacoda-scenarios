@@ -12,6 +12,7 @@ In the editor, lets add some code
 
 * Find the `step2` folder.
 * Open the `Program.cs` file
+* Add a using statement for Serilog e.g. `using Serilog;`
 * In the `Main` method add the following code
 
 ```
