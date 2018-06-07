@@ -1,6 +1,6 @@
 {
   "title": "Create a Serilog Console app using DotNet Core",
-  "description": "DotNet Core (2.0) with Serilog",
+  "description": "DotNet Core (2.1) with Serilog",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
