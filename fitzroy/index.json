@@ -1,0 +1,29 @@
+{
+    "title": "Fitzroy",
+    "description": "Fitzroy",
+    "difficulty": "beginner",
+    "time": "10 minutes",
+    "details": {
+      "steps": [{
+        "title": "Step 1 - Environment Setup",
+        "text": "step1.md"
+      }
+    ],
+      "intro": {
+        "text": "intro.md",
+        "credits": ""
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "icon": "fa-csharp",
+      "uilayout": "editor-terminal",
+      "uimessage1": "Get Amongst It..."
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  
